@@ -2,6 +2,10 @@
 
 This Python-based project converts simulated Braille key combinations into English text and provides word suggestions based on Levenshtein distance. It also supports text-to-speech output using the `pyttsx3` library.
 
+## Live Demo
+
+Try the live web app here: [Braille-Autocorrect on Streamlit](https://braille-autocorrect.streamlit.app/)
+
 ## 📌 Features
 
 - ⠿ Braille input using keys (Q, W, E, D, K, O, P)
