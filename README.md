@@ -62,3 +62,16 @@ You can modify or add more words to `dictionary.txt` to expand the vocabulary.
 >> END
 Interpreted word: BAD
 ✔ Word found in dictionary.
+```
+
+## 🧠 Future Improvements
+
+- Multilingual support  
+- Image-to-Braille translation  
+- Mobile-friendly interface  
+
+---
+
+**Author:** Rakesh Ch  
+**GitHub:** [@chikatlarakesh](https://github.com/chikatlarakesh)  
+**Project:** Part of a Braille Accessibility Initiative
